@@ -8,7 +8,7 @@ As we are in a data driven ecosystem, I aspire to be a DATA SCIENTIST and contri
 
 I'm better described as a team player who is willing to collaborate and work with peers and professional for a specific project/oraganization. My passion towards technology made me an active learner and  I'm good at PUBLIC SPEAKING, ORGANIZING and LEADING a community.
 
-## Programming languages/Tools known:                              
+#### Programming languages/Tools known:                              
 
 ✏️Python
 
