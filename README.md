@@ -8,7 +8,14 @@ As we are in a data driven ecosystem, I aspire to be a DATA SCIENTIST and contri
 
 I'm better described as a team player who is willing to collaborate and work with peers and professional for a specific project/oraganization. My passion towards technology made me an active learner and  I'm good at PUBLIC SPEAKING, ORGANIZING and LEADING a community.
 
-Skills: Python/ Tableau / SQL / MS Excel
+Programming languages/Tools known:                              
+
+✏️Python
+✏️C
+✏️C++ 
+✏️ SQL
+✏️MS EXCEL
+
 
 - 🔭 I’m currently working on  Data Sciecne and Machine learning 
 - 🌱 I’m currently learning Datastructure & Algorithm for competitive coding 
