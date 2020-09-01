@@ -13,7 +13,7 @@ Programming languages/Tools known:
 ✏️Python
 ✏️C
 ✏️C++ 
-✏️ SQL
+✏️SQL
 ✏️MS EXCEL
 
 
