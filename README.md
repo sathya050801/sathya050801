@@ -1,5 +1,5 @@
-### Hi there 👋, Sathya Narayana here
-#### Data Science Aspirant
+### Hello 👋, Sathya Narayana here
+### Data Science Aspirant
 ![Data Science Aspirant](https://blog-assets.freshworks.com/freshservice/wp-content/uploads/2019/01/14142758/Tech-Quotes-01.png)
 
 I'm Sathya Narayana from India and I'm a Data Science aspirant pursing my bachelors in Computer Science Engineering. 
