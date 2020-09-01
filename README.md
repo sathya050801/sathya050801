@@ -21,10 +21,12 @@ I'm better described as a team player who is willing to collaborate and work wit
 ✏️MS EXCEL
 
 
+
 - 🔭 I’m currently working on  Data Sciecne and Machine learning 
 - 🌱 I’m currently learning Datastructure & Algorithm for competitive coding 
 - 👯 I’m looking to collaborate on projects 
 - 🤔 I’m looking for help with Internships 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sathya050801)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/t-sathya-narayana//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/TSathya_050801)  
 
