@@ -2,7 +2,7 @@
 ### Data Science Aspirant
 ![Data Science Aspirant](https://blog-assets.freshworks.com/freshservice/wp-content/uploads/2019/01/14142758/Tech-Quotes-01.png)
 
-I'm Sathya Narayana from India and I'm a Data Science aspirant pursing my bachelors in Computer Science Engineering. 
+I'm Sathya Narayana from India and a Data Science aspirant pursing my bachelors in Computer Science Engineering. 
 
 As we are in a data driven ecosystem, I aspire to be a DATA SCIENTIST and contribute towards the society to make it a better place by solving real world problems. I accept challenges and I love overcoming it by accomplishing my tasks.
 
