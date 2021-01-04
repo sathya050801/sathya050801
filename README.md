@@ -16,7 +16,7 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ✏️CSS
 
-✏️BOOTSRAP
+✏️BOOTSTRAP
 
 ✏️C
 
