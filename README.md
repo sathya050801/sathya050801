@@ -26,6 +26,7 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ✏️MS EXCEL
 
+(https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=dark)
 
 
 - 🔭 I’m currently working on Web Development and UI/UX.
