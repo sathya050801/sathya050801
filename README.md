@@ -1,6 +1,7 @@
 ### Hello 👋, Sathya Narayana here
 ### Budding Web Developer
-![Data Science Aspirant](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
+(https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 <p align="right">
 I'm Sathya Narayana, a Web development aspirant pursing my bachelors in Computer Science Engineering. 
 
