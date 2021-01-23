@@ -39,7 +39,11 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Future-fit-Bootstrap-project)
+
+
 
