@@ -43,7 +43,7 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Future-fit-Bootstrap-project)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathya050801&repo=Future-fit-Bootstrap-project)
 
 
 
