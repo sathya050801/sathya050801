@@ -41,5 +41,5 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
