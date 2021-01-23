@@ -1,6 +1,5 @@
 ### Hello 👋, Sathya Narayana here
 ![Profile views](https://komarev.com/ghpvc/?username=sathya050801)
-### Budding Web Developer
 
 ![Web Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
  
