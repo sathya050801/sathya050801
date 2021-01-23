@@ -41,9 +41,9 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=radical)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathya050801&repo=Future-fit-Bootstrap-project)
+
 
 
 
