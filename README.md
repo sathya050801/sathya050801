@@ -1,10 +1,11 @@
 ### Hello 👋, Sathya Narayana here
 ### Budding Web Developer
 ![Data Science Aspirant](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-
+<p align="right">
 I'm Sathya Narayana, a Web development aspirant pursing my bachelors in Computer Science Engineering. 
 
 As a developer, I love building and maintaining websites which are faster, responsive and user-friendly. I accept challenges and I love overcoming it by accomplishing my tasks.
+</p>
 
 I'm better described as a team player who is willing to collaborate and work with peers and professional for a specific project/oraganization. My passion towards technology made me an active learner and  I'm good at PUBLIC SPEAKING, ORGANIZING and LEADING a community.
 
