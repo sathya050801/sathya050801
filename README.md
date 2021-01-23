@@ -37,7 +37,7 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathya050801&repo=github-readme-stats)](https://github.com/sathya050801/README.md)
-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathy050801&repo=github-readme-stat)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
