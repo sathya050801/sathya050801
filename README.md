@@ -1,6 +1,6 @@
 ### Hello 👋, Sathya Narayana here
 ### Budding Web Developer
-![Profile views](https://komarev.com/ghpvc/?username=sathya050801" alt="Profile views")
+![Profile views](https://komarev.com/ghpvc/?username=sathya050801)
 ![Web Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
  
 I'm Sathya Narayana, a Web developer and a Data Science aspirant pursing my bachelors in Computer Science Engineering. 
