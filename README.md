@@ -1,8 +1,8 @@
 ### Hello 👋, Sathya Narayana here
 ### Budding Web Developer
-![Data Science Aspirant](https://blog-assets.freshworks.com/freshservice/wp-content/uploads/2019/01/14142758/Tech-Quotes-01.png)
+![Data Science Aspirant](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-I'm Sathya Narayana from India and a Web development aspirant pursing my bachelors in Computer Science Engineering. 
+I'm Sathya Narayana, a Web development aspirant pursing my bachelors in Computer Science Engineering. 
 
 As a developer, I love building and maintaining websites which are faster, responsive and user-friendly. I accept challenges and I love overcoming it by accomplishing my tasks.
 
