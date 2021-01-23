@@ -39,5 +39,5 @@ I'm better described as a team player who is willing to collaborate and work wit
 
 ![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact)
 
