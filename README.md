@@ -1,9 +1,7 @@
 ### Hello 👋, Sathya Narayana here
 ### Budding Web Developer
-<p align="left">
 ![Web Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
- </p>
-<p align="right">
+ 
 I'm Sathya Narayana, a Web development aspirant pursing my bachelors in Computer Science Engineering. 
 
 As a developer, I love building and maintaining websites which are faster, responsive and user-friendly. I accept challenges and I love overcoming it by accomplishing my tasks.
