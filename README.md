@@ -1,7 +1,8 @@
 ### Hello 👋, Sathya Narayana here
 ### Budding Web Developer
-
-(https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+<p align="left">
+![Web Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+ </p>
 <p align="right">
 I'm Sathya Narayana, a Web development aspirant pursing my bachelors in Computer Science Engineering. 
 
