@@ -3,37 +3,23 @@
 
 ![Web Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-I'm Sathya Narayana, a Web developer and a Data Science aspirant pursing my bachelors in Computer Science Engineering. 
+I'm a budding **Web Developer** and **Data Science** aspirant pursuing BTech Computer Science and Engineering.
+As a developer, I always love building Websites 💻 which are user-friendly, responsive and solves people's problems. I have also played around with numerous projects in **Data Analytics and Machine Learning**.📊
+I am confident in my abilities to produce and while I prepare for the worst, I do the work necessary to tilt the odds that the best will happen.🤗
 
-As a developer, I love building and maintaining websites which are faster, responsive and user-friendly. I accept challenges and I love overcoming it by accomplishing my tasks.
+### Programming languages/Tools known:
 
-I'm better described as a team player who is willing to collaborate and work with peers and professional for a specific project/oraganization. My passion towards technology made me an active learner and  I'm good at PUBLIC SPEAKING, ORGANIZING and LEADING a community.
+✏️Python      ✏️HTML
 
-### Programming languages/Tools known:                              
+✏️C           ✏️CSS
+                
+✏️C++         ✏️Bootstrap
 
-✏️Python
+✏️SQL         ✏️Java Script
 
-✏️HTML
+✏️MS Excel    ✏️JQuery
 
-✏️CSS
-
-✏️BOOTSTRAP
-
-✏️JAVA SCRIPT
-
-✏️C
-
-✏️C++ 
-
-✏️SQL
-
-✏️MS EXCEL
-
-
-- 🔭 I’m currently working on Web Development and UI/UX.
-- 🌱 I’m currently learning Datastructure & Algorithm for competitive coding 
-- 👯 I’m looking to collaborate on projects 
-- 🤔 I’m looking for help with Internships 
+✏️Tableau     ✏️Matplotlib
 
 ### Connect me through:-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sathya050801)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/t-sathya-narayana//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TSathya_050801)  
