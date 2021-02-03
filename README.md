@@ -10,15 +10,10 @@ I am confident in my abilities to produce and while I prepare for the worst, I d
 ### Programming languages/Tools known:
 
 ✏️Python      ✏️HTML
-
-✏️C           ✏️CSS
-                
+✏️C           ✏️CSS               
 ✏️C++         ✏️Bootstrap
-
 ✏️SQL         ✏️Java Script
-
 ✏️MS Excel    ✏️JQuery
-
 ✏️Tableau     ✏️Matplotlib
 
 ### Connect me through:-
