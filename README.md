@@ -9,18 +9,7 @@ I am confident in my abilities to produce and while I prepare for the worst, I d
 
 ### Programming languages/Tools known:
 
-✏️Python 
-✏️C 
-✏️C++ 
-✏️HTML  
-✏️CSS 
-✏️Bootstrap 
-✏️Java Script
-✏️SQL
-✏️MS Excel  
-✏️JQuery  
-✏️Tableau 
-✏️Matplotlib
+✏️Python ✏️C ✏️C++ ✏️HTML  ✏️CSS ✏️Bootstrap ✏️Java Script✏️SQL✏️MS Excel  ✏️JQuery  ✏️Tableau ✏️Matplotlib
 
 ### Connect me through:-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sathya050801)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/t-sathya-narayana//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TSathya_050801)  
