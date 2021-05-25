@@ -11,7 +11,9 @@ As a developer, I always love building Websites 💻 which are user-friendly, re
 ✏️Python ✏️C ✏️C++ ✏️HTML  ✏️CSS ✏️Bootstrap ✏️Java Script✏️SQL✏️MS Excel  ✏️JQuery  ✏️Tableau ✏️Matplotlib
 
 -> Currently working on web development
+
 -> Practising and Solving problems using Data structures
+
 -> Looking for oppourtunities and collaborations
 
 ### Connect me through:-
