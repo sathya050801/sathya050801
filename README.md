@@ -10,6 +10,7 @@ As a developer, I always love building Websites 💻 which are user-friendly, re
 
 ✏️Python ✏️C ✏️C++ ✏️HTML  ✏️CSS ✏️Bootstrap ✏️Java Script✏️SQL✏️MS Excel  ✏️JQuery  ✏️Tableau ✏️Matplotlib
 
+### What I do nowadays?
 
 -> Currently working on web development🖥️
 
