@@ -1,9 +1,8 @@
-### Hello 👋, Sathya Narayana here
+
+
+<img src="intro.gif">
 
 ![Profile views](https://komarev.com/ghpvc/?username=sathya050801)
-
-![Web Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-
 
 ### What I do nowadays?
 
