@@ -35,9 +35,10 @@ As a developer, I always love building Websites 💻 which are user-friendly, re
 
 
 ![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=radical)
 <br><br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
+
 
 
 
