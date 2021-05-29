@@ -35,7 +35,7 @@ As a developer, I always love building Websites 💻 which are user-friendly, re
 
 <br><br>
 
-<h3 alighn="center">Connect me through👇 </h3>
+<h3 align="center">Connect me through👇 </h3>
 
 <p align = 'center'>
 <a href = https://linkedin.com/in/t-sathya-narayana target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
