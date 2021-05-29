@@ -16,7 +16,7 @@ As a developer, I always love building Websites 💻 which are user-friendly, re
 
 ‣ 🧐 Looking for internships and opportunities
 
-‣ 👬 Read to collaborate
+‣ 👬 Ready to collaborate
 
 ‣ 😂 Fun fact: I love food but I eat less
 
