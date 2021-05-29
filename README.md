@@ -6,7 +6,7 @@
 <a href="https://twitter.com/TSathya_050801">
   <img align="left" alt="Sathya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/t-sathya-narayana//">
+<a href="https://www.linkedin.com/in/t-sathya-narayana/">
   <img align="left" alt="Sathya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="">
