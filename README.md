@@ -10,11 +10,15 @@ As a developer, I always love building Websites 💻 which are user-friendly, re
 
 ### What I do nowadays?
 
--> Currently working on web development🖥️
+‣ 👨‍💻 Currently working on web development
 
--> Practising and solving problems using Data structures⌨️
+‣ 💪 Practising and solving problems using Data structures
 
--> Looking for opportunities and collaborations🔎
+‣ 🧐 Looking for internships and opportunities
+
+‣ 👬 Read to collaborate
+
+‣ 😂 Fun fact: I love food but I eat less
 
 ### Languages and Tools:
 
@@ -31,11 +35,11 @@ As a developer, I always love building Websites 💻 which are user-friendly, re
 
 <br><br>
 
-### Connect me through:-
+<h3 alighn="center">Connect me through👇 </h3>
 
 <p align = 'center'>
-<a href = https://linkedin.com/in/t-sathya-narayana target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> </t>
-<a href = https://twitter.com/TSathya_050801 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a> </t>
+<a href = https://linkedin.com/in/t-sathya-narayana target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+<a href = https://twitter.com/TSathya_050801 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a> 
 <a href = https://instagram.com/sathyajr_11 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 </a>
 
