@@ -62,17 +62,14 @@
 </div>
 
 </td></tr></table>
-<br />
 
+
+![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=radical)
 
-<br>
-
-![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
-
-<br>
 
 <h3 align="center">Connect me through👇 </h3>
 
