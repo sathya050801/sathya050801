@@ -71,7 +71,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=vision-friendly-dark)
+
 
 ---
 
