@@ -65,13 +65,13 @@
 
 
 
-![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=chartreuse-dark)
+![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=vision-friendly-dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=chartreuse-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=vision-friendly-dark)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=vision-friendly-dark)
 
 ---
 
