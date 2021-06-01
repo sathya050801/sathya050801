@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sathya050801)
 
-### What I do nowadays?
+<h3 align="center">What I do nowadays?</h3>
 
 ‣ 👨‍💻 Currently working on web development
 
@@ -18,7 +18,7 @@
 
 
 
-### My Skill Sets: 
+<h3 align="center">My Skill Sets⚙️</h3>
 <table><tr><td valign="top" width="33%">
 
 
@@ -64,12 +64,16 @@
 </td></tr></table>
 
 
-![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical)
+![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=chartreuse-dark)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya050801&layout=compact&theme=chartreuse-dark)
+
+---
 
 <h3 align="center">Connect me through👇 </h3>
 
