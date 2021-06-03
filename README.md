@@ -65,13 +65,9 @@
 
 
 
-![T Sathya Narayana's github stats](https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya050801)
-
-
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical">
 
 ---
 
