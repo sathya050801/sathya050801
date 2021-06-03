@@ -2,7 +2,7 @@
 
 <img src="intro.gif">
 
-![Profile views](https://komarev.com/ghpvc/?username=sathya050801)
+
 
 <h3 align="center">What I do nowadays?</h3>
 
@@ -79,4 +79,4 @@
 <a href = https://instagram.com/sathyajr_11 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 </a>
 
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sathya050801"></p>
