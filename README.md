@@ -63,11 +63,15 @@
 
 </td></tr></table>
 
-
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical">
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=sathya050801&theme=rogue" alt="Activity Graph">
+
 
 ---
 
