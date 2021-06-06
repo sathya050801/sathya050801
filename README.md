@@ -33,6 +33,7 @@
 </div>
 
 </td><td valign="top" width="33%">
+  
 
 
 
@@ -64,11 +65,15 @@
 </td></tr></table>
 
 ---
+[![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathya050801&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/sathya050801/github-readme-stats) &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=sathya050801&show_icons=true&theme=radical">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical">
+ <a href="https://github.com/sathya050801/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical&count_private=true" />
+  </a>
 
+
+---
 
 <img src="https://activity-graph.herokuapp.com/graph?username=sathya050801&theme=rogue" alt="Activity Graph">
 
@@ -84,3 +89,5 @@
 </a>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sathya050801"></p>
+
+<img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/>
