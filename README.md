@@ -76,9 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sathya050801&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true">
  
 <br>
- <a href="https://github.com/sathya050801/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical&count_private=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya050801&theme=radical">
 </p>
 <img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/>
 
