@@ -12,7 +12,9 @@
 
 ‣ 🧐 Looking for internships and opportunities
 
-‣ 👬 Ready to collaborate
+‣ 👬 Ready to collaborate 
+
+‣ ⛹️‍♂️ Team player and an explorer
 
 ‣ 😂 Fun fact: I love food but I eat less
 
